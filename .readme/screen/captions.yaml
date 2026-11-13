@@ -1,0 +1,15 @@
+01-overview.png:
+  cs: Hotová diagnóza mění vybraný problém Zabbixu a živý kontext na přehledné a proveditelné kontroly.
+  en: A finished diagnosis turns the selected Zabbix problem and live context into structured, actionable checks.
+02-problem-list.png:
+  cs: Jasně označená akce AI Assistant je dostupná přímo u každého podporovaného problému Zabbixu.
+  en: The clearly marked AI Assistant action is available directly beside each supported Zabbix problem.
+03-follow-up.png:
+  cs: Doplňující dotaz ve stejném dialogu - odpověď drží kontext problému a vrací příkazy připravené ke zkopírování.
+  en: Ask a follow-up in the same dialog - the answer keeps the problem context and comes back with copy-ready commands.
+03-zabbix-60.png:
+  cs: Diagnostika problémů zůstává integrovaná i v podporovaném přehledu problémů Zabbixu 6.0.
+  en: Problem diagnostics remains integrated with the supported Zabbix 6.0 problem view.
+06-settings.png:
+  cs: Centrální konfigurace řídí model, nástroje živých MCP dat i chování asistenta.
+  en: The central configuration controls the model, live MCP data tools and assistant behavior.
